@@ -1,0 +1,11 @@
+{
+  "name": "indra-server",
+  "version": "0.0.1",
+  "dependencies": {
+    "express": "^4.7.4",
+    "mongoose": "~3.8.14",
+    "sequelize": "~1.7.9",
+    "mysql": "~2.4.2",
+    "pg": "~3.4.0"
+  }
+}
